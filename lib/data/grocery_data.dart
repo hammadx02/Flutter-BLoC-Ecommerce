@@ -12,7 +12,7 @@ class GroceryData{
   {
     'id': '2',
     'name': 'Grapes',
-    'description': 'Organic, locally grown apples',
+    'description': 'Organic, locally grown grapes',
     'price': 1.99,
     'imageUrl': 'https://www.jiomart.com/images/product/original/590000452/sharad-seedless-grapes-1-kg-product-images-o590000452-p590116963-0-202203171004.jpg',
   },
