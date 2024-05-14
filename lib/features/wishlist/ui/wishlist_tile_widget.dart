@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc_ecommerce/features/cart/bloc/cart_bloc.dart';
 import 'package:flutter_bloc_ecommerce/features/home/models/home_product_data_model.dart';
 import 'package:flutter_bloc_ecommerce/features/wishlist/bloc/wishlist_bloc.dart';
 
@@ -69,7 +68,7 @@ class _WishlistTileWidgetState extends State<WishlistTileWidget> {
                       );
                     },
                     icon: const Icon(
-                      Icons.shopping_bag,
+                      Icons.favorite,
                     ),
                   ),
                 ],
